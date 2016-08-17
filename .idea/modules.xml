@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gramasira.iml" filepath="$PROJECT_DIR$/Gramasira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gramasira/app.iml" filepath="$PROJECT_DIR$/gramasira/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gramasira/gramasira.iml" filepath="$PROJECT_DIR$/gramasira/gramasira.iml" />
+    </modules>
+  </component>
+</project>

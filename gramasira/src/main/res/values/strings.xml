@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gramasira</string>
+    <string name="view_customers">View Customers</string>
+    <string name="other_payments">Other Payments</string>
+    <string name="take_payments">Take Payments</string>
+    <string name="monthly_collection">Monthly Collection</string>
+</resources>
